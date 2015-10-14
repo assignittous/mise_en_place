@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    mise_en_place (0.1.0)
+      thor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.4.2)
+    thor (0.19.1)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  bundler (~> 1.10)
+  mise_en_place!
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.10.6
