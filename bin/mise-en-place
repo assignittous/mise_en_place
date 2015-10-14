@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby -wU
+
+require 'mise_en_place'
+
+
+MiseEnPlace::Provision.start( ARGV )
